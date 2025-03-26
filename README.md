@@ -136,14 +136,4 @@ https://github.com/user-attachments/assets/74a02287-bb27-44b8-b657-55c78f372924
 
 ---
 
-## Contribution
-Contributions are welcome! Please follow the standard fork-and-pull workflow:
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Push to your fork.
-5. Submit a pull request.
-
-
-Happy robotics! :robot:
 
