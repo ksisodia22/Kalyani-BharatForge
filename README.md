@@ -95,7 +95,8 @@ python3 training_yolo.py
 
 ### 5. Video Demonstration 
 1. 
-https://github.com/user-attachments/assets/cfd96fc7-19fe-42fd-b517-a0da61f034db
+https://github.com/user-attachments/assets/ea005d81-21e5-4aa7-9410-dbb978dfac94
+
 
 
 2. 
